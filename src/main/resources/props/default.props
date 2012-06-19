@@ -1,0 +1,4 @@
+output.dir=/home/j2/
+threshold=0
+max.mime.size=40
+max.file.size=37
